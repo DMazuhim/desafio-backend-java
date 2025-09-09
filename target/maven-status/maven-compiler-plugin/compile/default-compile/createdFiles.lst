@@ -1,0 +1,13 @@
+br\com\desafio\gestaoclientes\model\Cliente.class
+br\com\desafio\gestaoclientes\config\SecurityConfig.class
+br\com\desafio\gestaoclientes\dto\ViaCepResponse.class
+br\com\desafio\gestaoclientes\model\Telefone.class
+br\com\desafio\gestaoclientes\controller\ClienteController.class
+br\com\desafio\gestaoclientes\GestaoClientesApplication.class
+br\com\desafio\gestaoclientes\repository\ClienteRepository.class
+br\com\desafio\gestaoclientes\service\exception\CpfJaCadastradoException.class
+br\com\desafio\gestaoclientes\controller\exception\RestExceptionHandler.class
+br\com\desafio\gestaoclientes\model\Email.class
+br\com\desafio\gestaoclientes\model\Endereco.class
+br\com\desafio\gestaoclientes\service\ClienteService.class
+br\com\desafio\gestaoclientes\dto\ApiErrorDTO.class

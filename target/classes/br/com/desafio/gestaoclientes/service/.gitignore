@@ -1,0 +1,22 @@
+# Arquivos gerados pelo Build do Maven
+/target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+
+# Arquivos de Log
+*.log
+
+# Arquivos de IDEs
+.idea/
+*.iml
+*.ipr
+*.iws
+.project
+.classpath
+.settings/
+.DS_Store
+.vscode/
